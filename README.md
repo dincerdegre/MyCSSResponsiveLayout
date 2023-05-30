@@ -1,1 +1,1 @@
-# My CSS Responsive Layout
+# CSS Responsive Layout
